@@ -1,5 +1,5 @@
 import React from 'react'
-import Button from '../Button'
+import Button from './Button'
 
 const list = ['All', 'Music', 'Live', 'Rituals', 'Bhajan', 'Cricket', 'Disha Vakani', 'Velentines', 'Playlist', 'Ghazal', 'Arijit Singh', 'Mixes']
 
